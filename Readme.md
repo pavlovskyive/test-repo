@@ -1,5 +1,6 @@
-My Project
+# Lab #1
 
-Vsevolod Pavlovskyi
+**Made by:**
 
-Anna Vasylashko
+- Vsevolod Pavlovskyi
+- Anna Vasylashko
